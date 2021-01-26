@@ -6,6 +6,7 @@ Steps To Running Application
 
 All input files are CSV files that contains two header rows followed by 1 or more rows of data. The first line consists of three values: college name, semester, and year. The second line consists of the column headers, and can be ignored.
 The data files are organized as follows: 
+
 Dept,Number,Section,Title,A,B,C,D,F,I,NR,S,U,W,Instructor 
 CS,377,1,Communication and Ethics,93,48,2,0,0,0,0,0,0,3,Burton 
 ME,308,1,Mechanical Vibrations,16,26,21,9,3,0,0,0,0,0,Szwalek 
