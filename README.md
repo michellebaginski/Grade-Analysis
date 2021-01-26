@@ -23,4 +23,4 @@ search : Search by course # or instructor prefix
 satisfactory: List of courses with grading type of satisfactory
 dfw: List of courses by DFW rate
 letterB: List of courses by percentage of B letter grades
-average: List of courses by average GPA.
+average: List of courses by average GPA. 
